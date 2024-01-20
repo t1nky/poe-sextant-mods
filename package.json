@@ -1,0 +1,16 @@
+{
+  "name": "poe-sextant-mods",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@biomejs/biome": "1.5.2",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "ooz-wasm": "^2.0.0",
+    "pathofexile-dat-schema": "^4.0.0"
+  }
+}
